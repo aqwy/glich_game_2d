@@ -1,0 +1,950 @@
+fileFormatVersion: 2
+guid: 529f97d7dad750a48b57bd52f7bafd68
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_0
+    21300002: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_1
+    21300004: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_2
+    21300006: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_3
+    21300008: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_4
+    21300010: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_5
+    21300012: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_6
+    21300014: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_7
+    21300016: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_8
+    21300018: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_9
+    21300020: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_10
+    21300022: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_11
+    21300024: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_12
+    21300026: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_13
+    21300028: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_14
+    21300030: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_15
+    21300032: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_16
+    21300034: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_17
+    21300036: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_18
+    21300038: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_19
+    21300040: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_20
+    21300042: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_21
+    21300044: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_22
+    21300046: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_23
+    21300048: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_24
+    21300050: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_25
+    21300052: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_26
+    21300054: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_27
+    21300056: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_28
+    21300058: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_29
+    21300060: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_30
+    21300062: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_31
+    21300064: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_32
+    21300066: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_33
+    21300068: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_34
+    21300070: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_35
+    21300072: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_36
+    21300074: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_37
+    21300076: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_38
+    21300078: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_39
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 844
+        width: 121
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f842365a79f68be4a900a5e6aebe70f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 844
+        width: 121
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbad40250b448e4b951e7766e95dba1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_2
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 844
+        width: 121
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb19e84e5b795e4cbaf860f8e1e540f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_3
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 844
+        width: 121
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4544e8919c51e842ab73d366a5939ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_4
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 844
+        width: 120
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909f4151918837646b2ebd21ff136ab3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_5
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 844
+        width: 120
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b53840b9c85214fac4ef4c1ffcfeeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 705
+        width: 119
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33223031ad4810248aa9e32840295a1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 705
+        width: 119
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba4064da7868b84ba4acd68d33874c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_8
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 705
+        width: 119
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e6e20d31e8d52409ab94355b58c34b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 705
+        width: 118
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9867387cb0ac74941a3a2681fe23f341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_10
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 704
+        width: 118
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb1aa105327cf04282f8309b4c28c20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_11
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 705
+        width: 118
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5ab6911e7a3514fa7f85664f7be656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 567
+        width: 117
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eae0e79d6800444589b43f951b10b6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_13
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 567
+        width: 114
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d46efba3b4d39408b981a7f24c7ff5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 567
+        width: 112
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee501267755b0348afa2f56c7cb27a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 567
+        width: 114
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec222b95c54ed4458bd37c6623e3e4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_16
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 567
+        width: 117
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8431ff2572fcce4aa38a619ea674da4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_17
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 566
+        width: 116
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c1dd59569c1dd4988dbb153297c7c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 116
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb12c80061f366428d0eb158a982f38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 427
+        width: 117
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fada6deaae84e41957fbe8258c126f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_20
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 427
+        width: 117
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3747630aabb8e514f985a8d4bbf0cd3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_21
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 427
+        width: 119
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab669c1cd9156c448b9599b98f7f64a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_22
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 427
+        width: 119
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496cc469abe08374a9913c9e572dcb44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_23
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 427
+        width: 118
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d95c10f5d712414ab8b33dba9b5211b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 288
+        width: 118
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3277253eecedd4a88039dcc56bdd38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 289
+        width: 117
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638c5ae834949b34697afb24c494320b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_26
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 289
+        width: 114
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd56b21546fc8d40b59d04aed92b5f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_27
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 289
+        width: 112
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9bca216ad398e479ca1c8fc89701e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_28
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 289
+        width: 114
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f804c58d31fb3824580c21f739268007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_29
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 289
+        width: 117
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43dabe0523c10d43955760030de9d48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 116
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b9789f7ea2ad243ad5d8f8e2828da7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_31
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 149
+        width: 116
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f7da4f4be92854c873499c06a4ccd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_32
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 149
+        width: 116
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8c985f951957941b32eb7ece19ca74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_33
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 149
+        width: 117
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47fd4c4a7cfcee4bb8bc9559a0665ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_34
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 149
+        width: 118
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75af758748d13e4db46cac96c45d3d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_35
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 149
+        width: 119
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402774f816ba4134cb08dd69ed5eab16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 10
+        width: 120
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f186a4d6dbe28947bb8c0e11825ebf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 10
+        width: 121
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc505fd18de8524b8e23790339dba5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_38
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 10
+        width: 122
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57217caf8f8772b4b85881f371461a48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_fox_fox_orangeFox_x1_taunt_png_1354839596_39
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 10
+        width: 121
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f260dfe76ffe344a5e4809e48a3194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6f14e05d3995d8947a387f4b65e08871
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
