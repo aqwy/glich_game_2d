@@ -55,6 +55,7 @@ GameObject:
   - component: {fileID: 95325431154728434}
   - component: {fileID: 61286102971361666}
   - component: {fileID: 50792891692177492}
+  - component: {fileID: 114194761086284348}
   m_Layer: 0
   m_Name: Gnome
   m_TagString: Untagged
@@ -191,6 +192,18 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &114194761086284348
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1669923476201364}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c6e8aa9be91de046a7268a9d6fec6f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 100
 --- !u!212 &212474594800784360
 SpriteRenderer:
   m_ObjectHideFlags: 1

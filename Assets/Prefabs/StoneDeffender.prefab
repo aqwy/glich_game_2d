@@ -22,8 +22,9 @@ GameObject:
   - component: {fileID: 95115225647534630}
   - component: {fileID: 50149235588826664}
   - component: {fileID: 61142321904847238}
-  - component: {fileID: 114031123136792700}
   - component: {fileID: 114650598877740002}
+  - component: {fileID: 114031123136792700}
+  - component: {fileID: 114231115335521610}
   m_Layer: 0
   m_Name: StoneDeffender
   m_TagString: Untagged
@@ -148,6 +149,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 031d1b9243023f242a8e9d3b443bebf6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &114231115335521610
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1183144550304158}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c6e8aa9be91de046a7268a9d6fec6f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 100
 --- !u!114 &114650598877740002
 MonoBehaviour:
   m_ObjectHideFlags: 1

@@ -39,6 +39,7 @@ GameObject:
   - component: {fileID: 61436055738672930}
   - component: {fileID: 114985696374041538}
   - component: {fileID: 50661155094187642}
+  - component: {fileID: 114808785468827630}
   m_Layer: 0
   m_Name: TrophyCut
   m_TagString: Untagged
@@ -196,6 +197,18 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &114808785468827630
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1727384602787318}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c6e8aa9be91de046a7268a9d6fec6f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 100
 --- !u!114 &114985696374041538
 MonoBehaviour:
   m_ObjectHideFlags: 1
