@@ -2,15 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FoxController : MonoBehaviour
+public class LizzardController : MonoBehaviour
 {
-    public int foxAttackPower = 10;
+    public int lizzardAttackPower = 10;
 
-    private Animator _foxAnim;
+    private Animator _lizzardAnim;
     private Attackers _attack;
     void Start()
     {
-        _foxAnim = GetComponent<Animator>();
+        _lizzardAnim = GetComponent<Animator>();
         _attack = GetComponent<Attackers>();
     }
 
@@ -22,18 +22,14 @@ public class FoxController : MonoBehaviour
             return;
         }
 
-        if (obj.GetComponent<StoneController>())
-        {
-            _foxAnim.SetTrigger("FoxGoesJump");
-        }
-        else
-        {
-            _attack.StartAttatck(obj, foxAttackPower);
-            _foxAnim.SetBool("FoxGoesAtack", true);
-        }
+        _attack.StartAttatck(obj, lizzardAttackPower);
+        _lizzardAnim.SetBool("LizardGoesAttack", true);
     }
     private void OnTriggerExit2D(Collider2D collision)
     {
-        _foxAnim.SetBool("FoxGoesAtack", false);
+        if (collision.gameObject.GetComponent<Deffenders>())
+        {
+            _lizzardAnim.SetBool("LizardGoesAttack", false);
+        }
     }
 }

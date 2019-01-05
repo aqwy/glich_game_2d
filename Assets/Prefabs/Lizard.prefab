@@ -30,7 +30,7 @@ GameObject:
   - component: {fileID: 11469580}
   - component: {fileID: 11415984}
   - component: {fileID: 114566687758566618}
-  - component: {fileID: 114421128775611312}
+  - component: {fileID: 114373159444153478}
   m_Layer: 0
   m_Name: Lizard
   m_TagString: Untagged
@@ -208,7 +208,7 @@ Prefab:
   m_SourcePrefab: {fileID: 0}
   m_RootGameObject: {fileID: 139280}
   m_IsPrefabAsset: 1
---- !u!114 &114421128775611312
+--- !u!114 &114373159444153478
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -216,10 +216,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 139280}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9c6e8aa9be91de046a7268a9d6fec6f5, type: 3}
+  m_Script: {fileID: 11500000, guid: 145f3a359c1b9c14ebba6a7577ef977a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 0
+  lizzardAttackPower: 5
 --- !u!114 &114566687758566618
 MonoBehaviour:
   m_ObjectHideFlags: 1

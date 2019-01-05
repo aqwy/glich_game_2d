@@ -6,12 +6,22 @@ using UnityEngine;
 public class Attackers : MonoBehaviour
 {
     private GameObject _currentTarget;
-    public void HitCurrentTarget(int damage)
+    private int _attackDamage;
+
+    private void HitCurrentTarget()
     {
-        Debug.Log(name + " caused damage: " + damage);
+        if (_currentTarget)
+        {
+            Health health = _currentTarget.GetComponent<Health>();
+            if (health)
+            {
+                health.DealDamage(_attackDamage);
+            }
+        }
     }
-    public void StartAttatck(GameObject target)
+    public void StartAttatck(GameObject target, int damage)
     {
         _currentTarget = target;
+        _attackDamage = damage;
     }
 }

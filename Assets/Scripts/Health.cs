@@ -4,9 +4,13 @@ using UnityEngine;
 
 public class Health : MonoBehaviour
 {
-    public int health;
+    public int health = 100;
     public void DealDamage(int amount)
     {
         health -= amount;
+        if (health < 0)
+        {
+            Destroy(gameObject);
+        }
     }
 }

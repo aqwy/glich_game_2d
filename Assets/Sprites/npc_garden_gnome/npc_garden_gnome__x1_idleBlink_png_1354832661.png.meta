@@ -1,7 +1,15 @@
 fileFormatVersion: 2
 guid: fdc16ef654dc94a45bd6e58789190432
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: npc_garden_gnome__x1_idleBlink_png_1354832661_0
+    21300002: npc_garden_gnome__x1_idleBlink_png_1354832661_1
+    21300004: npc_garden_gnome__x1_idleBlink_png_1354832661_2
+    21300006: npc_garden_gnome__x1_idleBlink_png_1354832661_3
+    21300008: npc_garden_gnome__x1_idleBlink_png_1354832661_4
+    21300010: npc_garden_gnome__x1_idleBlink_png_1354832661_5
+    21300012: npc_garden_gnome__x1_idleBlink_png_1354832661_6
+    21300014: npc_garden_gnome__x1_idleBlink_png_1354832661_7
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -93,7 +101,167 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_idleBlink_png_1354832661_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 567
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d182a6fe0f5cd4d91d098b2baf7dfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_idleBlink_png_1354832661_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 76
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698f314dd0f4d8f4082186aa90dfa3e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_idleBlink_png_1354832661_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 69
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa9ec274219418498c77ee44189ff79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_idleBlink_png_1354832661_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 64
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d96f8a28dcfa2147b1035b4b232d044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_idleBlink_png_1354832661_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 65
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e434cb6f1ee31184485a1d83d6f479d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_idleBlink_png_1354832661_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 69
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c023b2d63f7d14ea1dcb428de74903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_idleBlink_png_1354832661_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 64
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8991d61848a0c6b4ca2362e8be7f0d88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_garden_gnome__x1_idleBlink_png_1354832661_7
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 70
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5eedb8d9014bb4b873ac12f9630d43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
