@@ -7,7 +7,6 @@ public class Attackers : MonoBehaviour
 {
     private GameObject _currentTarget;
     private int _attackDamage;
-
     private void HitCurrentTarget()
     {
         if (_currentTarget)

@@ -147,7 +147,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.78, y: 0.69}
+  m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
 --- !u!95 &95078676645890458
 Animator:
@@ -180,7 +180,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   shellPrefab: {fileID: 1764315052419778, guid: e8f54553341cb8f459f53b86e8f42bbb,
     type: 2}
-  shellPrefabParent: {fileID: 0}
   spawnShellPosition: {fileID: 4470546363764918}
 --- !u!114 &114799482662960972
 MonoBehaviour:
