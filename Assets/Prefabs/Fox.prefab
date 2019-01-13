@@ -45,7 +45,7 @@ GameObject:
   - component: {fileID: 114079225084870030}
   m_Layer: 0
   m_Name: Fox
-  m_TagString: Untagged
+  m_TagString: Attackers
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -151,8 +151,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60cc749dacfc1e04b99c418e1f0e7b28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spawnTime: 5
-  attackerPrefab: {fileID: 0}
 --- !u!114 &114079225084870030
 MonoBehaviour:
   m_ObjectHideFlags: 1

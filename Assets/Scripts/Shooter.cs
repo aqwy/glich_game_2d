@@ -14,8 +14,9 @@ public class Shooter : MonoBehaviour
         if (!_projectileParent)
         {
             _projectileParent = new GameObject("Projectile");
-        }
+        }     
     }
+    
     public void startSooting()
     {
         GameObject shell = Instantiate(shellPrefab);
